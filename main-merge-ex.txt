@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 hello from main
+=======
+Hello from branch
+>>>>>>> conflict
